@@ -1,4 +1,4 @@
-# Create-AI-powered-apps-with-open-source-LangChain
+# Build a Chatbot to Analyze PDF Files using LLM
 ### **Author : Sina Nazeri**
 
 ## Deskripsi Awal
